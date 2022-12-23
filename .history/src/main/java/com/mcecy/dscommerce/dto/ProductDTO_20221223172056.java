@@ -2,7 +2,7 @@ package com.mcecy.dscommerce.dto;
 
 import com.mcecy.dscommerce.entities.Product;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
 import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
 

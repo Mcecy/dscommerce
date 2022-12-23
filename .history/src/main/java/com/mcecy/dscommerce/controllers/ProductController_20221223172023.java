@@ -19,7 +19,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.mcecy.dscommerce.dto.ProductDTO;
 import com.mcecy.dscommerce.services.ProductService;
 
-import javax.validation.Valid;
+
 
 @RestController
 @RequestMapping(value = "/products")

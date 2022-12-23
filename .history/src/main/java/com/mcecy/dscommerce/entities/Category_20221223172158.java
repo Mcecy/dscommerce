@@ -1,10 +1,10 @@
 package com.mcecy.dscommerce.entities;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
+import jakarta.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.ManyToMany;
+import jakarta.persistence.ManyToMany;
 import javax.persistence.Table;
 
 import java.util.Set;

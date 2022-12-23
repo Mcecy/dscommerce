@@ -1,13 +1,11 @@
 package com.mcecy.dscommerce.entities;
 
-import java.io.Serializable;
-
 import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
 @Embeddable
-public class OrderItemPK implements Serializable {
+public class OrderItemPK implements Seri {
 
     @ManyToOne
     @JoinColumn(name = "order_id")
