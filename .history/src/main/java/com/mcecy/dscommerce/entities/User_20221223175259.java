@@ -129,16 +129,19 @@ public class User implements UserDetails {
 
     @Override
     public boolean isAccountNonLocked() {
-        return true;
+        // TODO Auto-generated method stub
+        return false;
     }
 
     @Override
     public boolean isCredentialsNonExpired() {
-        return true;
+        // TODO Auto-generated method stub
+        return false;
     }
 
     @Override
     public boolean isEnabled() {
-        return true;
+        // TODO Auto-generated method stub
+        return false;
     }
 }
