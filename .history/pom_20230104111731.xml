@@ -9,7 +9,7 @@
 		<version>2.7.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mcecy</groupId>
+	<groupId>com.devsuperior</groupId>
 	<artifactId>dscommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dscommerce</name>
